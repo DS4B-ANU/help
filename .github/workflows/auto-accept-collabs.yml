@@ -1,2 +1,0 @@
-- name: Auto Accept Collabs
-  uses: kbrashears5/github-action-auto-accept-collabs@1.0.0
