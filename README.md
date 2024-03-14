@@ -4,15 +4,15 @@ This repo is where BIOL3207/6207 students from ANU can ask for help with their c
 # How?
 1. First, read [this blog post](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) and make sure you follow the advice on how to make a Minimal Reproducible Example. A little summary is to include:
     * a short, descriptive title
-    * enough context
-    * a description of what you've already tried
+    * enough context that someone can quickly understand what you are trying to do
     * a clear problem statement
-    * reproducible code and data (see also points 2 and 3)
+    * a description of what you've already tried, or what directions you think might be useful
+    * reproducible code and data, try to make sure to include a minimal dataset that we can load, as well as a clear example of the output you are looking for (see also points 2 and 3)
     * good formatting (e.g. use headers and subheaders if it makes it clearer)
-2. Write your MRE, and make sure the code in your example runs as you expect (either producing the output you expect, or the error you expect)
-3. Turn your code into a **reprex** using the `reprex()` function from the `reprex` package in R
-4. Submit your MRE with the reprex code as a [New Issue on this repository](https://github.com/DS4B-ANU/help/issues/new/choose)
-5. Await help
+2. Write your MRE
+3. If there is code in your MRE, make sure it runs as you expect (either producing the output you expect, or the error you expect), then turn your code into a **reprex** using the `reprex()` function from the `reprex` package in R
+5. Submit your MRE with the reprex code as a [New Issue on this repository](https://github.com/DS4B-ANU/help/issues/new/choose)
+6. Await help
 
 # Then what? 
 We'll do our best to respond to all questions within 1 working day. 
