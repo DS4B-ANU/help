@@ -11,7 +11,7 @@ This repo is where BIOL3207/6207 students from ANU can ask for help with their c
     * good formatting (e.g. use headers and subheaders if it makes it clearer)
 2. Write your MRE
 3. If there is code in your MRE, make sure it runs as you expect (either producing the output you expect, or the error you expect), then turn your code into a **reprex** using the `reprex()` function from the `reprex` package in R
-5. Submit your MRE with the reprex code as a [New Issue on this repository](https://github.com/DS4B-ANU/help/issues/new/choose)
+5. Submit your MRE with the reprex code as a [New Q&A discussion topic on this repository](https://github.com/DS4B-ANU/help/discussions/new?category=q-a)
 6. Await help
 
 # Then what? 
@@ -21,6 +21,3 @@ We'll do our best to respond to all questions within 1 working day.
 * For questions related to assignments, we will answer questions posted at least two working days prior to the deadline, but not after this. This is simply to try and ensure that we can get all posted questions answered in time for the answers to be useful to the person that posted the question
 * If you don't follow the first 4 steps in the 'How?' section above, we will simply respond to your question by asking you to fix the question. Then you will join the back of the queue
 * Don't ask us to do the work for the assignment (!). But we *can* help you debug specific bits of code when you're stuck
-
-
-
