@@ -7,7 +7,8 @@ This repo is where BIOL3207/6207 students from ANU can ask for help with their c
     * enough context that someone can quickly understand what you are trying to do
     * a clear problem statement
     * a description of what you've already tried, or what directions you think might be useful
-    * reproducible code and data, try to make sure to include a minimal dataset that we can load, as well as a clear example of the output you are looking for (see also points 2 and 3)
+    * reproducible code and data, try to make sure to include a minimal dataset that we can load (`construct_tribble()` from `datapasta` is useful!)
+    * a clear example of the output you are looking for
     * good formatting (e.g. use headers and subheaders if it makes it clearer)
 2. Write your MRE
 3. If there is code in your MRE, make sure it runs as you expect (either producing the output you expect, or the error you expect), then turn your code into a **reprex** using the `reprex()` function from the `reprex` package in R
